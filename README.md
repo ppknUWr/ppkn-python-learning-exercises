@@ -4,4 +4,4 @@ Project is builded on Jupyter Lab. You don't have to install it, you can just si
 
 #### What can you find inside?
 
-Couple of Python exercsies in answer to (Notebook with theoretical stuff)[https://github.com/ppknUWr/ppkn-python-learning].
+Couple of Python exercsies in answer to (Notebook with theoretical stuff)[https://github.com/ppknUWr/ppkn-python-learning]. After the description of problem you can see the answers for it below.
